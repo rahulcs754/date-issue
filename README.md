@@ -14,3 +14,5 @@ function returndate($dateset){
 		return $in_time->format('Y-m-d');
 		}
 ```
+https://stackoverflow.com/questions/27409742/insert-date-and-time-from-excel-sheet-into-db-with-php
+
